@@ -1,3 +1,3 @@
-|[Postman_Stepik](https://stepik.org/cert/2034667)|
+[Postman_Stepik](https://stepik.org/cert/2034667)
 ____
-|[Crypto_Stepik](https://stepik.org/cert/2039510)|
+[Crypto_Stepik](https://stepik.org/cert/2039510)
