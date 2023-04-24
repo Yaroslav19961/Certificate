@@ -1,1 +1,1 @@
-[Postman_Stepik](https://github.com/Yaroslav19961/Certificate/blob/main/Postman_stepik.jpg)
+[Postman_Stepik](https://stepik.org/cert/2034667)
