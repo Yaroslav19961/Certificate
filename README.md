@@ -7,3 +7,5 @@ ___
 ___
 >[HTML+CSS_Stepik](https://stepik.org/cert/2042780)
 ___
+>[ISTQB_Stepik](https://stepik.org/cert/2045699)
+___
