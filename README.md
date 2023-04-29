@@ -9,3 +9,5 @@ ___
 ___
 >[ISTQB_Stepik](https://stepik.org/cert/2045699)
 ___
+>[Jira_Stepik](https://stepik.org/cert/2046773)
+___
