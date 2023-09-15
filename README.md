@@ -13,3 +13,5 @@ ___
 ___
 >[JS_Stepik](https://stepik.org/cert/2132053)
 ___
+>[Python_Stepik](https://stepik.org/cert/2172661)
+___
